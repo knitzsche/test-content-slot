@@ -9,7 +9,7 @@ grade: stable
 confinement: strict
 
 apps:
-  test:
+  test-interface:
     command: slot-exec.sh
 slots:
   test-content-slot:
